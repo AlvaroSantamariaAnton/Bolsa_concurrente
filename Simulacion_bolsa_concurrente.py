@@ -1,7 +1,7 @@
 import multiprocessing
 import time
 import random
-import queue  # Añadido para manejar la excepción específica
+import queue
 from datetime import datetime
 import tkinter as tk
 from tkinter.scrolledtext import ScrolledText
