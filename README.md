@@ -25,3 +25,4 @@ Este proyecto simula un sistema básico de compra y venta de acciones (tipo bols
 - **LogGUI**: Interfaz para mostrar registros en tiempo real.
 
 ## Link al repositorio
+https://github.com/AlvaroSantamariaAnton/Bolsa_concurrente.git
